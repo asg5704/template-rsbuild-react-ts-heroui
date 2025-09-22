@@ -1,15 +1,15 @@
-# React TypeScript Template with RSBuild & HeroUI
+# RSBuild & HeroUI Template
 
-A modern React TypeScript template built with RSBuild and HeroUI components, featuring TailwindCSS for styling and Framer Motion for animations.
+This is a template for creating applications using RSBuild and HeroUI (v2).
 
-## 🚀 Features
+## 🚀 Technologies used
 
-- **React 19** - Latest React with TypeScript support
-- **RSBuild** - Fast Rust-based build tool
-- **HeroUI** - Beautiful React component library
-- **TailwindCSS** - Utility-first CSS framework
-- **Framer Motion** - Production-ready motion library
-- **TypeScript** - Type-safe development
+- [RSBuild](https://rsbuild.rs)
+- [HeroUI](https://heroui.com/)
+- [React 19](https://react.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 📦 Getting Started
 
@@ -20,14 +20,16 @@ A modern React TypeScript template built with RSBuild and HeroUI components, fea
 
 ### Installation
 
-1. Clone the repository:
+1. To clone the project, run the following command
 
 ```bash
 git clone https://github.com/asg5704/template-rsbuild-react-ts-heroui.git
 cd template-rsbuild-react-ts-heroui
 ```
 
-2. Install dependencies:
+2. Install dependencies
+
+You can use one of the following to install dependencies
 
 ```bash
 # npm
@@ -76,21 +78,6 @@ This template uses:
 - **HeroUI Theme** for consistent design tokens
 - **TailwindCSS** for utility-first styling
 - **Custom CSS** for additional styling needs
-
-## 📚 Documentation
-
-- [RSBuild Documentation](https://rsbuild.rs)
-- [HeroUI Documentation](https://heroui.com)
-- [React Documentation](https://react.dev)
-- [TailwindCSS Documentation](https://tailwindcss.com)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
