@@ -4,7 +4,7 @@ import "./App.css";
 export default function App() {
   return (
     <HeroUIProvider>
-      <main className="min-h-screen flex justify-center items-center">
+      <main className="dark text-foreground min-h-screen flex justify-center items-center">
         <div className="text-center">
           <span className="text-5xl">🔥</span>
           <h1 className="text-5xl">Hero UI + Rsbuild + React + TypeScript</h1>
@@ -17,7 +17,7 @@ export default function App() {
                 href="https://heroui.com"
                 isExternal
                 showAnchorIcon
-                color="secondary"
+                color="primary"
                 underline="always"
               >
                 HeroUI
@@ -28,7 +28,7 @@ export default function App() {
                 href="https://rsbuild.rs"
                 isExternal
                 showAnchorIcon
-                color="secondary"
+                color="primary"
                 underline="always"
               >
                 RSBuild
