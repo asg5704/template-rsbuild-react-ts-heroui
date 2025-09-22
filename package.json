@@ -1,8 +1,9 @@
 {
   "name": "template-rsbuild-react-ts-heroui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
+  "author": "Alexander Garcia",
   "scripts": {
     "build": "rsbuild build",
     "dev": "rsbuild dev --open",
